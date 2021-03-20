@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/projects/simple_app/mlruns/1/5f14148941ce45b89c1258022a1ef31e/artifacts
+end_time: 1616183569040
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 5f14148941ce45b89c1258022a1ef31e
+run_uuid: 5f14148941ce45b89c1258022a1ef31e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1616183568975
+status: 4
+tags: []
+user_id: hp

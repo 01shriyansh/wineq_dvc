@@ -1,0 +1,4 @@
+artifact_location: file:///D:/projects/simple_app/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: myexp
